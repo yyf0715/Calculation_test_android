@@ -4,3 +4,6 @@
 4.edit by 王梦川
 5.edit by 何元林
 6.hello world!
+7.edit by 王钰太
+You are a stupid man!
+Let us go!
